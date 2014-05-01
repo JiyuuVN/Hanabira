@@ -1,0 +1,67 @@
+[[Категория:Hanabira]]
+[[Sono_Hanabira_ni_Kuchizuke_o|[Назад к странице игры]]]
+== Благодарности ==
+Отдельное спасибо Proger_XP за предоставленные инструменты и помощь в допиливании русского языка.
+
+== Общая статистика ==
+Перевод
+<br>{{Progress|2=#700|7=20|8=20}}
+<br>Правка 
+<br>{{Progress|2=#070|7=20|8=20}} 
+<br>Графика
+<br>{{Progress|2=#007|7=4|8=22}}
+
+== Пояснения ==
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	!Готово !!Ведётся работа!! Не начато
+	|-
+	| {{OK}} || {{Work}} || {{No}}
+	|}
+|}
+
+== Сценарий ==
+{|style="text-align:center"
+ |- valign="top"
+ |
+	{|class="wikitable" style="background: #ffffff;"
+	!Японские скрипты!!Английские скрипты!!Перевод!! Правка!! Проверка в игре
+	|-
+| [[Hanabira:S001-JP.MSD|*01*]] || [[Hanabira:S001.MSD|01]] || {{OK}} || {{OK}} || {{OK}}
+|-
+| [[Hanabira:S002-JP.MSD|*02*]] || [[Hanabira:S002.MSD|02]] || {{OK}} || {{OK}} || {{OK}}
+|-
+| [[Hanabira:S003-JP.MSD|*03*]] || [[Hanabira:S003.MSD|03]] || {{OK}} || {{OK}} || {{OK}}
+|-
+| [[Hanabira:S004-JP.MSD|*04*]] || [[Hanabira:S004.MSD|04]] || {{OK}} || {{OK}} || {{Work}}
+|-
+| [[Hanabira:S005-JP.MSD|*05*]] || [[Hanabira:S005.MSD|05]] || {{OK}} || {{OK}} || {{Work}}
+|-
+| [[Hanabira:S006-JP.MSD|*06*]] || [[Hanabira:S006.MSD|06]] || {{OK}} || {{OK}} || {{Work}}
+|-
+| [[Hanabira:S007-JP.MSD|*07*]] || [[Hanabira:S007.MSD|07]] || {{OK}} || {{OK}} || {{Work}}
+|-
+| [[Hanabira:S008-JP.MSD|*08*]] || [[Hanabira:S008.MSD|08]] || {{OK}} || {{OK}} || {{Work}}
+|-
+| [[Hanabira:S009-JP.MSD|*09*]] || [[Hanabira:S009.MSD|09]] || {{OK}} || {{OK}} || {{Work}}
+|-
+| [[Hanabira:S010-JP.MSD|*10*]] || [[Hanabira:S010.MSD|10]] || {{OK}} || {{OK}} || {{Work}}
+|-
+| [[Hanabira:S011-JP.MSD|*11*]] || [[Hanabira:S011.MSD|11]] || {{OK}} || {{OK}} || {{Work}}
+|-
+| [[Hanabira:S012-JP.MSD|*12*]] || [[Hanabira:S012.MSD|12]] || {{OK}} || {{OK}} || {{Work}}
+|-
+| [[Hanabira:S013-JP.MSD|*13*]] || [[Hanabira:S013.MSD|13]] || {{OK}} || {{OK}} || {{Work}}
+|-
+| [[Hanabira:S014-JP.MSD|*14*]] || [[Hanabira:S014.MSD|14]] || {{OK}} || {{OK}} || {{Work}}
+|-
+| [[Hanabira:S015-JP.MSD|*15*]] || [[Hanabira:S015.MSD|15]] || {{OK}} || {{OK}} || {{Work}}
+|}
+|}
+
+== Заметка ==
+Имеются японские скрипты.
+
+[[Sono_Hanabira_ni_Kuchizuke_o|[Назад к странице игры]]]
